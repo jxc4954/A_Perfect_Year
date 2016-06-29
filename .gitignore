@@ -67,3 +67,10 @@ DerivedDataCache/*
 *.swp
 *.swo
 .ctrlp_cache/
+Content/Models/Materials/lambert1.uasset
+Content/Models/Materials/lambert2.uasset
+Content/Models/lambert1.uasset
+Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset
+Content/StarterContent/Textures/T_Burst_M.uasset
+Content/StarterContent/Textures/T_Explosion_SubUV.uasset
+Content/StarterContent/
