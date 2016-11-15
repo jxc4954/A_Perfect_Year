@@ -1,5 +1,8 @@
 # A_Perfect_Year
 
+# UE4 StarterContent
+Content/StarterContent/*
+
 # Compiled Object files
 *.slo
 *.lo
